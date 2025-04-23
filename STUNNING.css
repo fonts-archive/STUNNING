@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'STUNNING';
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+  src: url('https://cdn.jsdelivr.net/gh/fonts-archive/STUNNING/STUNNING.woff2') format('woff2'),
+      url('https://cdn.jsdelivr.net/gh/fonts-archive/STUNNING/STUNNING.woff') format('woff'),
+      url('https://cdn.jsdelivr.net/gh/fonts-archive/STUNNING/STUNNING.otf') format('opentype'),
+      url('https://cdn.jsdelivr.net/gh/fonts-archive/STUNNING/STUNNING.ttf') format('truetype');
+}
