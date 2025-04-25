@@ -25,7 +25,7 @@
 ```css
 @font-face {
   font-family: 'STUNNING';
-  font-weight: normal;
+  font-weight: 700;
   font-style: normal;
   font-display: swap;
   src: url('https://cdn.jsdelivr.net/gh/fonts-archive/STUNNING/STUNNING.woff2') format('woff2'),
